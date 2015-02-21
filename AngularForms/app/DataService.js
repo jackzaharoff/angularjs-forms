@@ -1,4 +1,4 @@
-﻿angularFormsApp.factory("efService", function() {
+﻿angularFormsApp.factory("DataService", function() {
     return {
         employee: {
             fullName: "John Doe",
