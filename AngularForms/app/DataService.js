@@ -1,6 +1,6 @@
 ﻿angularFormsApp.factory("DataService", function() {
     var getEmployee = function(id) {
-        if (id === 123) {
+        if (id == 123) {
             return {
                 fullName: "John Doe",
                 notes:
